@@ -1,6 +1,6 @@
 import UIKit
 
-print("merhaba")
+
 class Hayvanlar{
     func sesCikart(){
         
