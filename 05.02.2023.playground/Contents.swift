@@ -1,5 +1,5 @@
 import UIKit
-
+//burda da kalıtım yapan bir class olan Kopek classından Kangal classına kalıtım aldık
 
 class Hayvanlar{
     func sesCikart(){
